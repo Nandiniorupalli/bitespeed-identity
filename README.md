@@ -5,9 +5,13 @@ A backend service that consolidates user identities across multiple contact entr
 🔧 Stack
 
 Node.js
+
 Express.js
+
 PostgreSQL (via Prisma ORM)
+
 Render (for deployment)
+
 Thunder Client / Postman (for API testing)
 
 
